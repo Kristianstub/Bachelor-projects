@@ -1,4 +1,4 @@
-# team-14
+# Plask
 Plask is an app that uses metrological institutes API's to reccommend different seawater activities. The app includes Surfing, Sailing, Kayaking and Swimming. The app does not take into account all weather factors and should not be used alone to determine if its safe to do the different activities.
 
 List of external libraries used: 
